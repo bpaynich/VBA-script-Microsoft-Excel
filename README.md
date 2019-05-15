@@ -1,7 +1,7 @@
-<strong>VBA script - Excel
+<h2>VBA script - Excel
 Stock data extraction VBA
 Written by Bryan Paynich
-11/28/2018</strong>
+11/28/2018</h2>
 <br/><br/>
 Contents:
 <br/>
