@@ -5,11 +5,10 @@ Written by Bryan Paynich
 <br/><br/>
 Contents:
 <br/>
- Screenshots
    2014 results screen shot<br/>
    2015 results screen shot<br/>
    2016 results screen shot<br/>
-   
+   <br/>
 Wall Street Script.vba - macro 
 
  
