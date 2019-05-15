@@ -2,7 +2,7 @@
 Stock data extraction VBA
 Written by Bryan Paynich
 11/28/2018</strong>
-<br/>
+<br/><br/>
 Contents:
 <br/>
  Screenshots
